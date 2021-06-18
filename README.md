@@ -15,7 +15,7 @@ Zaczynając od profilu administratora - ma on przyznane prawa do zarządzania bi
 4.	Posiada kontrole nad listą wydawnictw, które przypisane są do wcześniej pokazanych egzemplarzy i wybierane są jako dropdown. Podobnie jak wcześniej admin może tu wyszukiwać, dodawać, edytować oraz usuwać. <br>
 5.	Zarządza rezerwacjami, w których wyświetlane są wszystkie rezerwacje wraz z ich datami rezerwacji, odebrania oraz zwrócenia egzemplarza przez użytkownika. <br><br>
 Na tym kończy się profil administratora biblioteki, tu część osoby niezalogowanej. <br>
-1.	Istnieje tutaj formularz rejestracji. Jest on podzielony na pola niezbędne do przejścia rejestracji oraz pole opcjonalne, które użytkownik może zmienić i dodać po założeniu konta w swoim profilu użytkownika. Jest tutaj obsługa błędów takich jak uniemożliwienie rejestracji bez podania wymaganych danych, uniemożliwienie rejestracji dla powielonego loginu, numer indeksu musi składać się tylko z cyfr oraz hasła muszą mieć od 4 do 30 znaków oraz muszą się zgadzać. Kiedy się zarejestrujemy możemy przejść do logowania.
+1.	Istnieje tutaj formularz rejestracji. Jest on podzielony na pola niezbędne do przejścia rejestracji oraz pole opcjonalne, które użytkownik może zmienić i dodać po założeniu konta w swoim profilu użytkownika. <br> Jest tutaj obsługa błędów takich jak uniemożliwienie rejestracji bez podania wymaganych danych, uniemożliwienie rejestracji dla powielonego loginu, numer indeksu musi składać się tylko z cyfr oraz hasła muszą mieć od 4 do 30 znaków oraz muszą się zgadzać. <br> Kiedy się zarejestrujemy możemy przejść do logowania. <br><br>
 Osoba zalogowana: <br>
 1. Przeglądać i wyszukiwać dzieła (rezerwacja) <br> <br>
 2. Wyszukiwać wydawnictwa <br>
