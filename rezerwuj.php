@@ -1,11 +1,6 @@
 <?php
 
 
-if (!isset($_SESSION['zalogowano'])) {
-	header('Location: login.php');
-	exit();
-}
-
 $title = "Twoje zam�wienia";
 include 'widok.php';
 $id_egz = $_GET['id_egz'];
