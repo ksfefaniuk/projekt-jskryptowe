@@ -6,7 +6,9 @@ W bazie danych znajdują się tabele :
 3.	Egzemplarzy – ta tabela wspomaga wypożyczenie konkretnego egzemplarza danego dzieła, z którym się łączy. Ponieważ w bibliotekach posiadamy wiele egzemplarzy jednego dzieła
 4.	Wydawnictw
 5.	Rezerwacji – mamy tu daty wg których ustalamy datę wypożyczenia oraz zwrócenia egzemplarza
+///
 Zaczynając od profilu administratora - ma on przyznane prawa do zarządzania biblioteką oraz jej zasobami w całości. 
+///
 1.	Posiada wgląd do listy studentów, których jest w stanie wyszukiwać po numerze indeksu lub nazwisku studenta. Następnie jesteśmy w stanie edytować dane studenta, oraz zatwierdzić wprowadzone zmiany .
 2.	Posiada wgląd do listy dzieł, które jest w stanie przeszukiwać, edytować  oraz usuwać. Na stronie jest także formularz do dodania nowej pozycji dzieła, jeśli taka pojawiła się w bibliotece. 
 3.	Lista egzemplarzy, w której analogicznie są takie same funkcje
