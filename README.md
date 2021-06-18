@@ -17,7 +17,7 @@ Zaczynając od profilu administratora - ma on przyznane prawa do zarządzania bi
 Na tym kończy się profil administratora biblioteki, tu część osoby niezalogowanej. <br>
 1.	Istnieje tutaj formularz rejestracji. Jest on podzielony na pola niezbędne do przejścia rejestracji oraz pole opcjonalne, które użytkownik może zmienić i dodać po założeniu konta w swoim profilu użytkownika. <br> Jest tutaj obsługa błędów takich jak uniemożliwienie rejestracji bez podania wymaganych danych, uniemożliwienie rejestracji dla powielonego loginu, numer indeksu musi składać się tylko z cyfr oraz hasła muszą mieć od 4 do 30 znaków oraz muszą się zgadzać. <br> Kiedy się zarejestrujemy możemy przejść do logowania. <br><br>
 Osoba zalogowana: <br>
-1. Przeglądać i wyszukiwać dzieła (rezerwacja) <br> <br>
+1. Przeglądać i wyszukiwać dzieła (rezerwacja) <br> 
 2. Wyszukiwać wydawnictwa <br>
 3. Przeglądać swoje rezerwacje (anulowanie) <br>
 4. Dokonać prostej edycji profilu <br>
