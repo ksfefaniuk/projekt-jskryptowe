@@ -5,7 +5,7 @@ W bazie danych znajdują się tabele :
 2.	Dzieł
 3.	Egzemplarzy – ta tabela wspomaga wypożyczenie konkretnego egzemplarza danego dzieła, z którym się łączy. Ponieważ w bibliotekach posiadamy wiele egzemplarzy jednego dzieła
 4.	Wydawnictw
-5.	Rezerwacji – mamy tu daty wg których ustalamy datę wypożyczenia oraz zwrócenia egzemplarza
+5.	Rezerwacji – mamy tu daty wg których ustalamy datę wypożyczenia oraz zwrócenia egzemplarza <br>
 ///
 Zaczynając od profilu administratora - ma on przyznane prawa do zarządzania biblioteką oraz jej zasobami w całości. 
 ///
