@@ -1,0 +1,79 @@
+body {
+	background-color: #e8d8ff;
+	  font-family: arial, sans-serif;
+  }
+  table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	justify-content: space-between;
+  }
+  thead,tr, td {
+	  border: 1px solid black;
+	  text-align: left;
+	  padding: 8px;
+	  font-size: 15px;
+  }
+  #studentsearch {
+	  font-family: arial, sans-serif;
+	  margin-top: 20px;
+	  margin-left: 30px;
+	  margin-right: 30px;
+	  padding: 10px;
+	  border: 2px solid black;
+	  display: flex;
+		  justify-content: space-between;
+	  background: #b38bff;
+	  font-size: 22px;
+  }
+  a {
+	  color: black;
+	  font-size: 17px;
+  }
+  #awidok{
+	  font-size: 22px;
+  }
+  #rejestracjatak{
+	  margin-top: 10px;
+	  margin-left: 50px;
+	  font-size: 16px;
+	  font-family: arial, sans-serif;
+  }
+  #rejestracjanie{
+	  margin-top: -280px;
+	  margin-left: 450px;
+	  font-size: 16px;
+	  font-family: arial, sans-serif;
+  }
+  #rejestracja{
+	  background: #cfb1ff;
+	  border: 1px solid black;
+	  padding: 10px;
+	  margin-top: 20px;
+	  margin-left: 30px;
+	  margin-right: 30px;
+  }
+  input{
+	  font-size: 16px;
+  }
+  form {
+	  display: inline;
+  }
+  #login{
+	  font-family: arial, sans-serif;
+	  margin-top: 20px;
+	  margin-left: 30px;
+	  margin-right: 30px;
+	  padding: 10px;
+	  border: 1px solid black;
+	  display: flex;
+		  justify-content: space-between;
+	  background: #cfb1ff;
+	  font-size: 18px;
+  }
+  #szukaj {
+	  border: 1px solid #dddddd;
+	  text-align: left;
+	  padding: 8px;
+	  font-size: 15px;
+  }
